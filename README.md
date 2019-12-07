@@ -22,9 +22,9 @@ Clicking on a layer will drill down further into the relevant LCA visualizations
 Clicking on an image will bring it to full size. These visualizations can serve as a guiding tool for researchers to modify their model training, allowing them to adjust layers and parameters and visualize how those changes affect model performance. 
 
 
-[Slides](https://docs.google.com/presentation/d/1b3tWjkX3cKYalAdXrvfazeShByDK8hFO_5wyzRToxwc/edit?usp=sharing)
+## [Slides](https://docs.google.com/presentation/d/1b3tWjkX3cKYalAdXrvfazeShByDK8hFO_5wyzRToxwc/edit?usp=sharing)
 
-Colab Links:
+## Colab Links:
 
 [LCA_MNIST](https://colab.research.google.com/drive/1b5KCRToeyCA2Mg45V1iimZfd8D75Un-x)
 
