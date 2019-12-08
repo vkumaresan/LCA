@@ -1,4 +1,4 @@
-# LCA
+# LCA (Loss Change Allocation)
 Duke BME590 Final Project
 
 Loss Change Allocation (LCA) was originally developed by Uber Research (paper: https://arxiv.org/pdf/1909.01440.pdf) as a mechanism to further understand model training. Specifically, LCA allows for per-parameter loss calculations, which can then be used by the researcher to tune their model training. More information is explained in this blog post by Uber Engineering: https://eng.uber.com/loss-change-allocation/
