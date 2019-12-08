@@ -11,7 +11,7 @@ We also wanted to create a Tensorboard wrapper for LCA, allowing anyone to plug 
 
 ![overall_tensorboard](/images/overall_tensorboard.png)
 
-With our current workflow, we separate the visualizations by layer so that the user can choose which layer they want to dig deeper into. In the future, we would like to automate this process so that the code can automatically run and separate the LCA visualizations for each layer in the specified model. 
+With our current workflow, we separate the visualizations by layer so that the user can choose which layer they want to dig deeper into. They can also view the visualizations that compare layers overall. In the future, we would like to automate this process so that the code can automatically run and separate the LCA visualizations for each layer in the specified model. 
 
 ![layer_in_detail](/images/layer_in_detail.png)
 
